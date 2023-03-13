@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lpt | head
+ls -pt | head
